@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.my-box {
+    background-color: white;
+    width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 300px;
+}
